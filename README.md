@@ -1,4 +1,4 @@
-# Peaches Ahead
+# Webcam Web App
 Using `create-react-app` with React Router + Express.js
 
 ## Development
@@ -6,8 +6,8 @@ Using `create-react-app` with React Router + Express.js
 Clone this repository:
 
 ```sh
-git clone https://github.com/tspoff/peaches-ahead-webapp.git
-cd peaches-ahead-webapp
+git clone https://github.com/royhodge830/webcam-webapp.git
+cd webcam-webapp
 ```
 
 Install dependencies:
